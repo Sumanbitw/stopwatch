@@ -20,6 +20,7 @@ body {
     max-width: 20rem;
     margin: 2rem auto;
     border-radius: 1rem;
+    border: solid 2px #4C1D95;
 
 }
 
@@ -57,6 +58,7 @@ button:hover{
     -moz-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
     background: #E5E7EB;
-    border: solid 1px #111827;
+    border: solid 1px #4C1D95;
     color: black;
 }
+
