@@ -1,6 +1,6 @@
 body {
-    background: 
-    #111827;
+    background:
+    #374151;
     height: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -11,6 +11,16 @@ body {
     color: 
     #A78BFA;
     text-align: center;
+}
+
+.wrapper-class{
+    background-color: 
+    #111827;
+    padding: 3rem;
+    max-width: 20rem;
+    margin: 2rem auto;
+    border-radius: 1rem;
+
 }
 
 h1,h2 {
